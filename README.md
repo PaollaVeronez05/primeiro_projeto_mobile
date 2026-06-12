@@ -70,7 +70,8 @@ Este projeto representa os primeiros conceitos de desenvolvimento mobile, inclui
 
 ## Alerta de Funcionamento
 
-![Alerta](./![Uploading Screenshot_2026-06-12-08-12-26-266_host.exp.exponent.jpg…]()
+![Alerta](./<img width="300" height="600" alt="Screenshot_2026-06-12-08-12-26-266_host exp exponent" src="https://github.com/user-attachments/assets/9873e9f5-26f8-4039-b427-a970af1f7040" />
+
 )
 
 ---
