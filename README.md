@@ -63,13 +63,15 @@ Este projeto representa os primeiros conceitos de desenvolvimento mobile, inclui
 
 ## Tela Inicial
 
-![Tela Inicial](./Screenshot_2026-06-12-08-12-26-266_host.exp.exponent.jpg)
+![Tela Inicial](./<img width="720" height="1600" alt="Screenshot_2026-06-12-08-12-29-276_host exp exponent" src="https://github.com/user-attachments/assets/c1c00397-ee53-4947-877f-0f71c9cadff4" />
+)
 
 ---
 
 ## Alerta de Funcionamento
 
-![Alerta](./Screenshot_2026-06-12-08-12-29-276_host.exp.exponent.jpg)
+![Alerta](./![Uploading Screenshot_2026-06-12-08-12-26-266_host.exp.exponent.jpg…]()
+)
 
 ---
 
@@ -136,7 +138,7 @@ Desenvolvedora de Sistemas
 
 ---
 
-# 👨‍🏫 Professores Orientadores
+#  Professores Orientadores
 
 ### Paulo Camargo
 
@@ -144,7 +146,7 @@ Desenvolvedora de Sistemas
 
 ---
 
-# 🏫 Instituição
+#  Instituição
 
 **SENAI - Serviço Nacional de Aprendizagem Industrial**
 
@@ -152,10 +154,10 @@ Curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
-# 📄 Licença
+#  Licença
 
 Projeto desenvolvido para fins educacionais durante as atividades do curso Técnico em Desenvolvimento de Sistemas do SENAI.
 
 ---
 
-⭐ Projeto desenvolvido por **Paolla Paula Veronez** durante os estudos de Desenvolvimento Mobile no SENAI.
+
