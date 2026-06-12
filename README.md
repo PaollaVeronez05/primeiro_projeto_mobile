@@ -63,12 +63,14 @@ Este projeto representa os primeiros conceitos de desenvolvimento mobile, inclui
 
 ## Tela Inicial
 
-![Tela Inicial](./<img width="300" height="600" alt="Screenshot_2026-06-12-08-12-29-276_host exp exponent" src="https://github.com/user-attachments/assets/c1c00397-ee53-4947-877f-0f71c9cadff4" />
-)
+
+<img width="300" height="600" alt="Screenshot_2026-06-12-08-12-29-276_host exp exponent" src="https://github.com/user-attachments/assets/c1c00397-ee53-4947-877f-0f71c9cadff4" />
+
 
 ---
 
 ## Alerta de Funcionamento
+
 
 <img width="300" height="600" alt="Screenshot_2026-06-12-08-12-26-266_host exp exponent" src="https://github.com/user-attachments/assets/9873e9f5-26f8-4039-b427-a970af1f7040" />
 
